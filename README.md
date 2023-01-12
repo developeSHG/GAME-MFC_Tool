@@ -3,13 +3,9 @@
 
 
 날짜              : 2019.06.01 ~ 2019.06.03
-
-인원              : 2명 중 팀장 (담당파트 : Animation Tool, Map Tool)
-
-개발 환경         : Visual Studio 2015 (x64)
-
-개발 언어 및 도구  : C++, MFC, DirectX9
-
+<br/>인원              : 2명 중 팀장 (담당파트 : Animation Tool, Map Tool)
+<br/>개발 환경         : Visual Studio 2015 (x64)
+<br/>개발 언어 및 도구  : C++, MFC, DirectX9
 
 ======================================================================
 
