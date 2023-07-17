@@ -1,5 +1,5 @@
 # GAME-MFC_Tool
-<h2>[Win API 2D - Team Project] MFC툴</h2>
+<h3>[Win API 2D - Team Project] MFC툴</h3>
 
 <b>날짜</b>              : 2019.06.01 ~ 2019.06.03
 <br/><b>인원</b>              : 2명 중 팀장 (담당파트 : Animation Tool, Map Tool)
